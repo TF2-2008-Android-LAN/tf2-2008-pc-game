@@ -1,174 +1,174 @@
-{
-  "schema": "tf2-pc-release-v1",
-  "platform": "windows",
-  "component": "pc-game-data",
-  "version": "pc-assets-v0.1.0-qa",
-  "channel": "qa",
-  "published": false,
-  "baseUrl": "https://github.com/TF2-2008-Android-LAN/tf2-2008-pc-game/releases/download/pc-assets-v0.1.0-qa/",
-  "gameRootName": "TF2_2008",
-  "launcherSeparate": true,
-  "entrypoint": "hl2_launcher.exe",
-  "gameFolder": "tf_port",
-  "recommendedGameArgs": [
-    "-game",
-    "tf_port",
-    "-novid",
-    "-console",
-    "-insecure"
-  ],
-  "manifest": {
-    "name": "files.json",
-    "bytes": 4116392,
-    "sha256": "146d12c3957f960512bfdc1080324750467fff649e64dde5ea987b9a3ccf3dab",
-    "assetName": "files.json"
-  },
-  "packCount": 17,
-  "fileCount": 19413,
-  "uncompressedBytes": 5683197912,
-  "packs": [
-    {
-      "name": "packs/tf2pc-ajustes-visuales-01.zip",
-      "bytes": 34631473,
-      "sha256": "fdd5a6820c36c23aa6d6e9bdb7ba737c0835e33ac0f5820df49a7f6cebe537cd",
-      "files": 304,
-      "uncompressedBytes": 36522039,
-      "assetName": "tf2pc-ajustes-visuales-01.zip"
-    },
-    {
-      "name": "packs/tf2pc-hl2-01.zip",
-      "bytes": 500870101,
-      "sha256": "460df989353630027a3229787ba736b77a94137bef4286d64efa2bb5763b5e26",
-      "files": 8,
-      "uncompressedBytes": 504648583,
-      "assetName": "tf2pc-hl2-01.zip"
-    },
-    {
-      "name": "packs/tf2pc-hl2-02.zip",
-      "bytes": 414823834,
-      "sha256": "6621490ccbf6b493e78b12aa3125219ca501141268766a812922827df7c65a7d",
-      "files": 5,
-      "uncompressedBytes": 428940992,
-      "assetName": "tf2pc-hl2-02.zip"
-    },
-    {
-      "name": "packs/tf2pc-hl2-03.zip",
-      "bytes": 479605273,
-      "sha256": "e40bd53d6c8ac923e884d3c500e791b11df4d43abe536a9f9838ccd2ddece152",
-      "files": 4,
-      "uncompressedBytes": 479604611,
-      "assetName": "tf2pc-hl2-03.zip"
-    },
-    {
-      "name": "packs/tf2pc-hl2-04.zip",
-      "bytes": 544513756,
-      "sha256": "52893234765d0d301231c09e933a545b85621cfd595fb502cefa9693a22d037c",
-      "files": 7,
-      "uncompressedBytes": 544512679,
-      "assetName": "tf2pc-hl2-04.zip"
-    },
-    {
-      "name": "packs/tf2pc-hl2-05.zip",
-      "bytes": 529811713,
-      "sha256": "ea6f72c8055fc8406959ed7a0f36f6af80dd1585f10be563b239a5882b531816",
-      "files": 5,
-      "uncompressedBytes": 529810971,
-      "assetName": "tf2pc-hl2-05.zip"
-    },
-    {
-      "name": "packs/tf2pc-hl2-06.zip",
-      "bytes": 358214438,
-      "sha256": "9a963f057cb74cac512abceea3a0e1a9c19026023f8acfa080450681557aafe4",
-      "files": 690,
-      "uncompressedBytes": 398758071,
-      "assetName": "tf2pc-hl2-06.zip"
-    },
-    {
-      "name": "packs/tf2pc-mapas-01.zip",
-      "bytes": 502040408,
-      "sha256": "d166c5f9bcd1b770b7330c7236cb89a903231f844c71bd4c7302b2780b4365b8",
-      "files": 145,
-      "uncompressedBytes": 502629172,
-      "assetName": "tf2pc-mapas-01.zip"
-    },
-    {
-      "name": "packs/tf2pc-materiales-01.zip",
-      "bytes": 544895368,
-      "sha256": "84ad97a247e8a08d282ff1edb342adbd9de38bdc48338692f34a4c4776dfc719",
-      "files": 2510,
-      "uncompressedBytes": 544603194,
-      "assetName": "tf2pc-materiales-01.zip"
-    },
-    {
-      "name": "packs/tf2pc-materiales-02.zip",
-      "bytes": 544411653,
-      "sha256": "2de62e762cb0e54f4eeae0738ca9c474be356f67a5d734ae71facd713ee40a74",
-      "files": 2692,
-      "uncompressedBytes": 543953690,
-      "assetName": "tf2pc-materiales-02.zip"
-    },
-    {
-      "name": "packs/tf2pc-materiales-03.zip",
-      "bytes": 76785601,
-      "sha256": "e414b0849a971b880669f7025052cb4f76d7ef22f2dcfb4c500400501d922204",
-      "files": 155,
-      "uncompressedBytes": 76770231,
-      "assetName": "tf2pc-materiales-03.zip"
-    },
-    {
-      "name": "packs/tf2pc-modelos-01.zip",
-      "bytes": 121984655,
-      "sha256": "ad74ee45dc2782bb3c6fea6f02a0be8d9f2fa1b2c9e14aae837a82f070f526c6",
-      "files": 6221,
-      "uncompressedBytes": 315610683,
-      "assetName": "tf2pc-modelos-01.zip"
-    },
-    {
-      "name": "packs/tf2pc-motor-01.zip",
-      "bytes": 15113558,
-      "sha256": "eb33126ab7e87fa36e27187e0c48163b2a5b46ef4cfd23a823edaccdc5eff1fd",
-      "files": 29,
-      "uncompressedBytes": 42534196,
-      "assetName": "tf2pc-motor-01.zip"
-    },
-    {
-      "name": "packs/tf2pc-plataforma-01.zip",
-      "bytes": 23671279,
-      "sha256": "2056263286ec3fcbbf08becfc109e87802a036ab2b1ba280f4d44766a7bca3b5",
-      "files": 278,
-      "uncompressedBytes": 33380188,
-      "assetName": "tf2pc-plataforma-01.zip"
-    },
-    {
-      "name": "packs/tf2pc-sonidos-01.zip",
-      "bytes": 481780252,
-      "sha256": "4e1b1170bceaee27a6d5677cf8fc9e9823538897a797c40b240b8373c21c42b5",
-      "files": 2248,
-      "uncompressedBytes": 545117424,
-      "assetName": "tf2pc-sonidos-01.zip"
-    },
-    {
-      "name": "packs/tf2pc-sonidos-02.zip",
-      "bytes": 2483701,
-      "sha256": "03851b05713f1707447dad6db65cd58c00aaef099dfe07b6665ed8bd141496be",
-      "files": 11,
-      "uncompressedBytes": 2892480,
-      "assetName": "tf2pc-sonidos-02.zip"
-    },
-    {
-      "name": "packs/tf2pc-tf-resto-01.zip",
-      "bytes": 125373653,
-      "sha256": "3f9c8aad61ce5e715ff8507744acfcc4908ae1496412b8b49cc7f55be91a2efe",
-      "files": 4101,
-      "uncompressedBytes": 152908708,
-      "assetName": "tf2pc-tf-resto-01.zip"
-    }
-  ],
-  "generatedAtUtc": "2026-11-17T00:19:05+00:00",
-  "hosting": {
-    "providerFormat": "github-release-flat-assets",
-    "repository": "TF2-2008-Android-LAN/tf2-2008-pc-game",
-    "tag": "pc-assets-v0.1.0-qa",
-    "uploadStatus": "prepared-not-uploaded"
-  }
+﻿{
+    "schema":  "tf2-pc-release-v1",
+    "platform":  "windows",
+    "component":  "pc-game-data",
+    "version":  "pc-assets-v0.1.0-qa",
+    "channel":  "qa",
+    "published":  true,
+    "baseUrl":  "https://github.com/TF2-2008-Android-LAN/tf2-2008-pc-game/releases/download/pc-assets-v0.1.0-qa/",
+    "gameRootName":  "TF2_2008",
+    "launcherSeparate":  true,
+    "entrypoint":  "hl2_launcher.exe",
+    "gameFolder":  "tf_port",
+    "recommendedGameArgs":  [
+                                "-game",
+                                "tf_port",
+                                "-novid",
+                                "-console",
+                                "-insecure"
+                            ],
+    "manifest":  {
+                     "name":  "files.json",
+                     "bytes":  4116392,
+                     "sha256":  "146d12c3957f960512bfdc1080324750467fff649e64dde5ea987b9a3ccf3dab",
+                     "assetName":  "files.json"
+                 },
+    "packCount":  17,
+    "fileCount":  19413,
+    "uncompressedBytes":  5683197912,
+    "packs":  [
+                  {
+                      "name":  "packs/tf2pc-ajustes-visuales-01.zip",
+                      "bytes":  34631473,
+                      "sha256":  "fdd5a6820c36c23aa6d6e9bdb7ba737c0835e33ac0f5820df49a7f6cebe537cd",
+                      "files":  304,
+                      "uncompressedBytes":  36522039,
+                      "assetName":  "tf2pc-ajustes-visuales-01.zip"
+                  },
+                  {
+                      "name":  "packs/tf2pc-hl2-01.zip",
+                      "bytes":  500870101,
+                      "sha256":  "460df989353630027a3229787ba736b77a94137bef4286d64efa2bb5763b5e26",
+                      "files":  8,
+                      "uncompressedBytes":  504648583,
+                      "assetName":  "tf2pc-hl2-01.zip"
+                  },
+                  {
+                      "name":  "packs/tf2pc-hl2-02.zip",
+                      "bytes":  414823834,
+                      "sha256":  "6621490ccbf6b493e78b12aa3125219ca501141268766a812922827df7c65a7d",
+                      "files":  5,
+                      "uncompressedBytes":  428940992,
+                      "assetName":  "tf2pc-hl2-02.zip"
+                  },
+                  {
+                      "name":  "packs/tf2pc-hl2-03.zip",
+                      "bytes":  479605273,
+                      "sha256":  "e40bd53d6c8ac923e884d3c500e791b11df4d43abe536a9f9838ccd2ddece152",
+                      "files":  4,
+                      "uncompressedBytes":  479604611,
+                      "assetName":  "tf2pc-hl2-03.zip"
+                  },
+                  {
+                      "name":  "packs/tf2pc-hl2-04.zip",
+                      "bytes":  544513756,
+                      "sha256":  "52893234765d0d301231c09e933a545b85621cfd595fb502cefa9693a22d037c",
+                      "files":  7,
+                      "uncompressedBytes":  544512679,
+                      "assetName":  "tf2pc-hl2-04.zip"
+                  },
+                  {
+                      "name":  "packs/tf2pc-hl2-05.zip",
+                      "bytes":  529811713,
+                      "sha256":  "ea6f72c8055fc8406959ed7a0f36f6af80dd1585f10be563b239a5882b531816",
+                      "files":  5,
+                      "uncompressedBytes":  529810971,
+                      "assetName":  "tf2pc-hl2-05.zip"
+                  },
+                  {
+                      "name":  "packs/tf2pc-hl2-06.zip",
+                      "bytes":  358214438,
+                      "sha256":  "9a963f057cb74cac512abceea3a0e1a9c19026023f8acfa080450681557aafe4",
+                      "files":  690,
+                      "uncompressedBytes":  398758071,
+                      "assetName":  "tf2pc-hl2-06.zip"
+                  },
+                  {
+                      "name":  "packs/tf2pc-mapas-01.zip",
+                      "bytes":  502040408,
+                      "sha256":  "d166c5f9bcd1b770b7330c7236cb89a903231f844c71bd4c7302b2780b4365b8",
+                      "files":  145,
+                      "uncompressedBytes":  502629172,
+                      "assetName":  "tf2pc-mapas-01.zip"
+                  },
+                  {
+                      "name":  "packs/tf2pc-materiales-01.zip",
+                      "bytes":  544895368,
+                      "sha256":  "84ad97a247e8a08d282ff1edb342adbd9de38bdc48338692f34a4c4776dfc719",
+                      "files":  2510,
+                      "uncompressedBytes":  544603194,
+                      "assetName":  "tf2pc-materiales-01.zip"
+                  },
+                  {
+                      "name":  "packs/tf2pc-materiales-02.zip",
+                      "bytes":  544411653,
+                      "sha256":  "2de62e762cb0e54f4eeae0738ca9c474be356f67a5d734ae71facd713ee40a74",
+                      "files":  2692,
+                      "uncompressedBytes":  543953690,
+                      "assetName":  "tf2pc-materiales-02.zip"
+                  },
+                  {
+                      "name":  "packs/tf2pc-materiales-03.zip",
+                      "bytes":  76785601,
+                      "sha256":  "e414b0849a971b880669f7025052cb4f76d7ef22f2dcfb4c500400501d922204",
+                      "files":  155,
+                      "uncompressedBytes":  76770231,
+                      "assetName":  "tf2pc-materiales-03.zip"
+                  },
+                  {
+                      "name":  "packs/tf2pc-modelos-01.zip",
+                      "bytes":  121984655,
+                      "sha256":  "ad74ee45dc2782bb3c6fea6f02a0be8d9f2fa1b2c9e14aae837a82f070f526c6",
+                      "files":  6221,
+                      "uncompressedBytes":  315610683,
+                      "assetName":  "tf2pc-modelos-01.zip"
+                  },
+                  {
+                      "name":  "packs/tf2pc-motor-01.zip",
+                      "bytes":  15113558,
+                      "sha256":  "eb33126ab7e87fa36e27187e0c48163b2a5b46ef4cfd23a823edaccdc5eff1fd",
+                      "files":  29,
+                      "uncompressedBytes":  42534196,
+                      "assetName":  "tf2pc-motor-01.zip"
+                  },
+                  {
+                      "name":  "packs/tf2pc-plataforma-01.zip",
+                      "bytes":  23671279,
+                      "sha256":  "2056263286ec3fcbbf08becfc109e87802a036ab2b1ba280f4d44766a7bca3b5",
+                      "files":  278,
+                      "uncompressedBytes":  33380188,
+                      "assetName":  "tf2pc-plataforma-01.zip"
+                  },
+                  {
+                      "name":  "packs/tf2pc-sonidos-01.zip",
+                      "bytes":  481780252,
+                      "sha256":  "4e1b1170bceaee27a6d5677cf8fc9e9823538897a797c40b240b8373c21c42b5",
+                      "files":  2248,
+                      "uncompressedBytes":  545117424,
+                      "assetName":  "tf2pc-sonidos-01.zip"
+                  },
+                  {
+                      "name":  "packs/tf2pc-sonidos-02.zip",
+                      "bytes":  2483701,
+                      "sha256":  "03851b05713f1707447dad6db65cd58c00aaef099dfe07b6665ed8bd141496be",
+                      "files":  11,
+                      "uncompressedBytes":  2892480,
+                      "assetName":  "tf2pc-sonidos-02.zip"
+                  },
+                  {
+                      "name":  "packs/tf2pc-tf-resto-01.zip",
+                      "bytes":  125373653,
+                      "sha256":  "3f9c8aad61ce5e715ff8507744acfcc4908ae1496412b8b49cc7f55be91a2efe",
+                      "files":  4101,
+                      "uncompressedBytes":  152908708,
+                      "assetName":  "tf2pc-tf-resto-01.zip"
+                  }
+              ],
+    "generatedAtUtc":  "2026-11-17T00:19:05+00:00",
+    "hosting":  {
+                    "providerFormat":  "github-release-flat-assets",
+                    "repository":  "TF2-2008-Android-LAN/tf2-2008-pc-game",
+                    "tag":  "pc-assets-v0.1.0-qa",
+                    "uploadStatus":  "published"
+                }
 }
